@@ -4,4 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   come: to
   fly away
+  comin soon
+  come to the here
 end
