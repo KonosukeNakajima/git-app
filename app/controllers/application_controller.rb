@@ -6,4 +6,11 @@ class ApplicationController < ActionController::Base
   fly away
   comin soon
   come to the here
+  aaa
+  aaaa
+  aaaaa
+  aaaaaa
+  aaaaaa
+  aaaa
+  alias_method :a, :old_name
 end
